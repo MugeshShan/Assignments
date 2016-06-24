@@ -13,7 +13,6 @@ int main()
 	{
 		printf("%d\t",s);
 		s=s+d;
-	
 	}
 	return 0;
 }
